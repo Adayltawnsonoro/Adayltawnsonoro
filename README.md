@@ -1,6 +1,5 @@
 ### <h1>Olá! Eu sou Adayltawn Sonoro</h1>
-<h2>Sou Gestor de Tráfego e Desenvolvedor de Sorftware</h2>
-
+<h2><em>Sou gestor de tráfego e desenvolvedor de software</em></h2>
 
 <!--
 **Adayltawnsonoro/Adayltawnsonoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
